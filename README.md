@@ -1,6 +1,6 @@
 <h1 align="center">Hello 🙋🏼‍♂️, I'm Jerome Akumasi</h1>
 <h3 align="center">A Full Stack Web Developer</h3>
-<img src="https://th.bing.com/th/id/OIG.yzeVc_yJVk2c99GsDjr1?pid=ImgGn" alt="" align="right" style="border-radius: 50px; border: 2px solid #DE1b89" />
+<img src="https://th.bing.com/th/id/OIG.yzeVc_yJVk2c99GsDjr1?pid=ImgGn" alt="" align="right" style="width: 40%" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jaakumasi&label=Profile%20views&color=0e75b6&style=flat" alt="jaakumasi" /> </p>
 
