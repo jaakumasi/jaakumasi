@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jaakumasi&label=Profile%20views&color=0e75b6&style=flat" alt="jaakumasi" /> </p>
 
-- 🔭 I’m currently working on **an e-commerce platform**
+<!-- - 🔭 I’m currently working on **an e-commerce platform** -->
 
 - 🌱 Delving into **Machine Learning with TensorFLow and Keras**
 
