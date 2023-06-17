@@ -8,7 +8,7 @@
 
 - 🌱 Delving into **Machine Learning with TensorFLow and Keras**
 
-<!-- - 👨‍💻 My projects are available at [https://github.com/jaakumasi](https://github.com/jaakumasi) ->
+<!-- - 👨‍💻 My projects are available at [https://github.com/jaakumasi](https://github.com/jaakumasi) -->
 
 - 🚅 Proficient in **ReactJS, NextJS, ExpressJS, MySQL, MongoDB, Python**
 
