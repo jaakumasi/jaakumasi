@@ -2,7 +2,7 @@
 <h3 align="center">A Full Stack Web Developer</h3>
 <img src="https://th.bing.com/th/id/OIG.yzeVc_yJVk2c99GsDjr1?pid=ImgGn" alt="" align="right" style="width: 35%; box-shadow: 0 0 2px #777;" />
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jaakumasi&label=Profile%20views&color=0e75b6&style=flat" alt="jaakumasi" /> </p>
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=jaakumasi&label=Profile%20views&color=0e75b6&style=flat" alt="jaakumasi" /> </p> -->
 
 - 🔭 I’m currently working on **an e-commerce platform**
 
