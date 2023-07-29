@@ -4,15 +4,13 @@
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=jaakumasi&label=Profile%20views&color=0e75b6&style=flat" alt="jaakumasi" /> </p> -->
 
-- 🔭 I’m currently working on **an e-commerce platform**
+- I’m currently working on **an e-commerce platform**
 
-- 🌱 Delving into **Machine Learning with TensorFLow and Keras**
+- Familiarizing myself with **Machine Learning with TensorFLow and Keras**
 
-<!-- - 👨‍💻 My projects are available at [https://github.com/jaakumasi](https://github.com/jaakumasi) -->
+- Proficient in **ReactJS, NextJS, ExpressJS, MySQL, MongoDB, Python**
 
-- 🚅 Proficient in **ReactJS, NextJS, ExpressJS, MySQL, MongoDB, Python**
-
-- 📫 Please contact me on **jeromeakumasi01@gmail.com**
+- Please contact me on **jeromeakumasi01@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
