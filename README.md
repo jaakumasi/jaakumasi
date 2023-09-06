@@ -4,8 +4,6 @@
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=jaakumasi&label=Profile%20views&color=0e75b6&style=flat" alt="jaakumasi" /> </p> -->
 
-- I’m currently working on **an e-commerce platform**
-
 - Familiarizing myself with **Machine Learning with TensorFLow and Keras**
 
 - Proficient in **ReactJS, NextJS, ExpressJS, MySQL, MongoDB, Python**
