@@ -6,7 +6,7 @@
 
 - Familiarizing myself with **Machine Learning with TensorFLow and Keras**
 
-- Proficient in **ReactJS, NextJS, ExpressJS, MySQL, MongoDB, Python**
+- Proficient in **JavaScript, ReactJS, NextJS, ExpressJS, MySQL, MongoDB**
 
 - Please contact me on **jeromeakumasi01@gmail.com**
 
