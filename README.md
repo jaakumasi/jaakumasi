@@ -4,11 +4,9 @@
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=jaakumasi&label=Profile%20views&color=0e75b6&style=flat" alt="jaakumasi" /> </p> -->
 
-- Familiarizing myself with **Machine Learning with TensorFLow and Keras**
+- Proficient in **JavaScript, React, Angular, NextJS, NodeJS (Express), MySQL, MongoDB**
 
-- Proficient in **JavaScript, ReactJS, NextJS, ExpressJS, MySQL, MongoDB**
-
-- Please contact me on **jeromeakumasi01@gmail.com**
+- Contact me on **jeromeakumasi01@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
