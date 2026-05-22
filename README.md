@@ -1,4 +1,4 @@
-<h1 align="center">Namaste!👋🏼</h1>
+<!-- <h1 align="center">Namaste!👋🏼</h1> -->
 <!-- <h3 align="center">Not a code monkey. Just love to solve real world problems requiring code solutions.</h3> -->
 <!-- <img src="https://th.bing.com/th/id/OIG.yzeVc_yJVk2c99GsDjr1?pid=ImgGn" alt="" align="right" style="width: 35%; box-shadow: 0 0 2px #777;" /> -->
 
